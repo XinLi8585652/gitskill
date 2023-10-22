@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 public class test1 {
-
+jkkklkgojijh56655565665
 	public static void main(String[] args) {
 	 Scanner sc=new Scanner(System.in);
 	
