@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;1233
 import java.util.Random;
 public class test1 {
 jkkklkgojijh56655565665
